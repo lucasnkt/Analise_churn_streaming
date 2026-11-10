@@ -22,7 +22,7 @@ a qualidade da aquisição ao longo do tempo.
 - Análise univariada e bivariada
 - Frameworks de negócio: cohort, RFM adaptado, Pareto e funil de conversão
 ## Como explorar
-O notebook completo está em [`notebooks/analise_churn.ipynb`](notebooks/analise_churn.ipynb).
+O notebook completo está em [`notebooks/Estatistica1churn.ipynb`](notebooks/analise_churn.ipynb).
 Os dados usados são um conjunto sintético criado para fins didáticos.
 ## Autor
 Lucas Santos
